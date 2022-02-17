@@ -1,4 +1,42 @@
-# BlogPessoal
+# Blog Pessoal
+### Projeto feito individualmente para o Bootcamp da **Generation Brasil** - 2022
+
+<br>
+
+<img src="./src/assets/Capa Blog Pessoal.png" max-width="800px" width="800px" align="center" alt="Imagem de galaxia com TARDIS">
+
+<br>
+
+## Descrição
+Blog com tema livre para aprendizagem de desenvolvimento front-end focado em Angular.
+
+<br>
+
+## Frameworks utilizados:
+> [Angular](https://angular.io/start "Plataforma e Framework Angular")
+
+> [Bootstrap](https://getbootstrap.com/ "Framework Bootstrap")
+
+<br>
+
+## Linguagens utilizadas:
+> [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML "Linguagem de Marcação")
+
+> [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS "Cascading Style Sheets")
+
+> [TypeScript](https://www.typescriptlang.org/ "TypeScript")
+
+<br>
+
+<table>
+    <tr>
+       <td align="center"><a href="https://linktr.ee/catarinarinaldi" title="Me conheça mais"><img src="./src/assets/catarinaAvatar.png" width="200px;" alt="Avatar de Catarina Rinaldi"/><br /><sub><b>Catarina Rinaldi</b></sub></a><br /><a href="https://linktr.ee/catarinarinaldi" title="Catarina Rinaldi"></a></td>
+    </tr>
+</table>
+
+Projeto e read.me feito por Catarina Rinaldi
+
+#
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
