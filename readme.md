@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="./src/assets/Capa Blog Pessoal.png" max-width="800px" width="800px" align="center" alt="Imagem de galaxia com TARDIS">
+<img src="./src/assets/Capa Blog Pessoal.png" max-width="800px" width="800px" align="center" alt="Capa do blog pessoal escrito CATARINALDI no meio">
 
 <br>
 
